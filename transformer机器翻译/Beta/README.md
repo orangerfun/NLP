@@ -17,5 +17,10 @@
 # 数据说明
 写本程序的目的是为了进一步熟悉Transformer，因此并没有在意程序的结果；使用数据集并不大，本次使用的数据集来自某公司，
 公司提供的数据集非常大，出于训练时间考虑，本次只选择其中`10 0000`条训练
+# 测试结果
+结果如下图所示<br>
+
+![](https://github.com/orangerfun/NLP/raw/master/transformer机器翻译/pic0.png)
+
 
 
