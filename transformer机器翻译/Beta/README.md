@@ -22,6 +22,8 @@
 
 ![](https://github.com/orangerfun/NLP/raw/master/transformer机器翻译/pic0.png)
 
+结果不咋滴， 全当理解Transformer网络....
+
 
 
 
