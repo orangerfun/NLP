@@ -20,7 +20,7 @@
 # 测试结果
 结果如下图所示<br>
 
-![](https://github.com/orangerfun/NLP/raw/master/transformer机器翻译/pic0.png)
+![](https://github.com/orangerfun/NLP/raw/master/transformer机器翻译/Beta/pic0.png)
 
 
 
